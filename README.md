@@ -23,10 +23,12 @@ Internal Client Services, Information Technology Intern
 
 
 Internal Client Services, Information Technology Administrator (Jun 2021)
+
 -Provided IT assistance to users remotely and on-site, helping them to resolve technical issues and troubleshoot problems.
     
 
 JK TECHNOLOGY (Aug - Sept 2023)
+
 Information Technology Assistant
 - Provided on-site IT support services to clients, resolving technical issues quickly and efficiently.
 
