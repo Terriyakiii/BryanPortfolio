@@ -2,7 +2,7 @@
 Temasek Polytechnic (2022 – Current)
 
 Diploma in Information Technology
-- Achieved 2 'As in Computational Thinking (COMPT) and IT Systems and Security(ITSS)
+- Achieved 2 'As in Computational Thinking and IT Systems and Security
 
 Institute of Technical Education College Central (2020 – 2021)
 
