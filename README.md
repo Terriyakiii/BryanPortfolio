@@ -1,6 +1,7 @@
 # Portfolio of Bryan Lee
 
 #Here is My Linkedin Profile:
+
 [My Likedin profile] (https://www.linkedin.com/in/bryan-lee-204b611b3)
 
 # Summary
