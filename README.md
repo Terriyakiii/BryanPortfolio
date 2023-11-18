@@ -1,7 +1,5 @@
 ## Portfolio of Bryan Lee
 
-[Bryanleelee0@gmail.com, 93890821 , https://www.linkedin.com/in/bryan-lee-204b611b3/]
-
 ## Summary
 
 I am a highly motivated and results-oriented individual with a strong passion for information technology. I have a proven the ability in developing and implementing software solutions. I am also a skilled problem solver and have excellent communication and teamwork skills.
