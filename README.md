@@ -54,4 +54,3 @@ Infocom Club
 
 - Developed basic Microsoft Word, Excel, and PowerPoint skills.
 
-## References
