@@ -1,42 +1,59 @@
-## EDUCATION
-Temasek Polytechnic (2022 – Current)
+## Portfolio of Bryan Lee
 
-Diploma in Information Technology
-- Achieved 2 'As in Computational Thinking and IT Systems and Security
+[Bryanleelee0@gmail.com, 93890821 , https://www.linkedin.com/in/bryan-lee-204b611b3/]
 
-Institute of Technical Education College Central (2020 – 2021)
+## Summary
 
-NITEC in Information Technology
-- Awarded the Joint ITE-Oracle Certificate in Essentials of Java Programming
-- Achieved 2 Distinctions in Server Essentials and Virtualization Technology.
-- Achieved 3 'As in Internetworking Technology, Internet Applications and Software Application
+I am a highly motivated and results-oriented individual with a strong passion for information technology. I have a proven the ability in developing and implementing software solutions. I am also a skilled problem solver and have excellent communication and teamwork skills.
 
-Meridian Secondary School 
+## Technical Skills
 
-GCE ‘N’ Level
-- Achieved 2 'As in Computer Applications (CPA) and Science
-- Awarded Best in Computer Applications (CPA) 2019 Secondary 4 Normal Technical 
-- Awarded Edusave Scholarship Award (2018, 2019)
+- Proficient in web development using HTML, CSS, JavaScript, and Node.js
+- Experience with MySQL database development
+- Experience with cloud application development using AWS
+- Familiarity with Agile methodology and design thinking
 
-## WORK EXPERIENCE 
-Deloitte and Touche Service Management Pte Ltd (Jan – May 2021)
+## Projects
+
+# Restaurant Review Website
+
+- I designed and developed a restaurant review website using Adobe XD and Node.js. The website allows users to search for restaurants, read reviews, and leave their own reviews.
+
+# Database Management for Restaurant Review Website
+
+- I created and managed a MySQL database for the restaurant review website. I also developed a back end that can communicate with the front end to store and retrieve information about restaurants and reviews.
+
+# Networking Group Project
+
+- I utilized my leadership and coordination skills to effectively lead a networking group project. I was responsible for assigning tasks, tracking progress, and ensuring that the project was completed on time and within budget.
+
+## Work Experience
+
+# Deloitte and Touche Service Management Pte Ltd 
 
 Internal Client Services, Information Technology Intern
+
 - Assisted users in installing and configuring plugins on their devices.
-- Resolved challenging user IT issues by applying problem-solving skills and providing tailored solutions
+- Provided remote and on-site technical support to users.
+- Resolved challenging user IT issues by applying problem-solving skills and providing tailored solutions.
 
+## Awards and Achievements
 
-Internal Client Services, Information Technology Administrator (Jun 2021)
+- Edusave Scholarship Award (2019, 2018)
+- Best in Computer Applications (2019)
 
-- Provided IT assistance to users remotely and on-site, helping them to resolve technical issues and troubleshoot problems.
-    
+## Co-Curricular Activities
 
-JK Technology (Aug - Sept 2023)
+Information Technology Student Interest Group in Temasek Polytechnic (ITSIG)
 
-Information Technology Assistant
+- Volunteered as a student helper at UI/UX Design Workshop to assist Year 1 students with their projects.
 
-- Provided on-site IT support services to clients, resolving technical issues quickly and efficiently.
+Football
 
-    
+- Played in Meridian's feeder team against other participating schools in Saints-Meridian-Ville Cup in 2019.
 
+Infocom Club
 
+- Developed basic Microsoft Word, Excel, and PowerPoint skills.
+
+## References
