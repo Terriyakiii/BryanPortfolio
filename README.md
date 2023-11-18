@@ -27,7 +27,7 @@ I am a highly motivated and results-oriented individual with a strong passion fo
 
 ## Work Experience
 
-# Deloitte and Touche Service Management Pte Ltd 
+Deloitte and Touche Service Management Pte Ltd 
 
 Internal Client Services, Information Technology Intern
 
