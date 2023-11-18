@@ -1,5 +1,3 @@
-##Bryan's Portfolio
-
 ##EDUCATION
 #Temasek Polytechnic (2022 – Current)
 Diploma in Information Technology
