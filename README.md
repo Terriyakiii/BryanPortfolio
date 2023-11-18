@@ -19,7 +19,7 @@ GCE ‘N’ Level
 - Awarded Edusave Scholarship Award (2018, 2019)
 
 ## WORK EXPERIENCE 
-#Deloitte and Touche Service Management Pte Ltd (Jan – May 2021)
+Deloitte and Touche Service Management Pte Ltd (Jan – May 2021)
 
 Internal Client Services, Information Technology Intern
 - Assisted users in installing and configuring plugins on their devices.
@@ -34,6 +34,7 @@ Internal Client Services, Information Technology Administrator (Jun 2021)
 JK TECHNOLOGY (Aug - Sept 2023)
 
 Information Technology Assistant
+
 - Provided on-site IT support services to clients, resolving technical issues quickly and efficiently.
 
     
