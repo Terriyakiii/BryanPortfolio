@@ -28,7 +28,7 @@ Internal Client Services, Information Technology Intern
 
 Internal Client Services, Information Technology Administrator (Jun 2021)
 
--Provided IT assistance to users remotely and on-site, helping them to resolve technical issues and troubleshoot problems.
+- Provided IT assistance to users remotely and on-site, helping them to resolve technical issues and troubleshoot problems.
     
 
 JK TECHNOLOGY (Aug - Sept 2023)
