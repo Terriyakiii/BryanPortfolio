@@ -1,4 +1,4 @@
-# Portfolio of Bryan Lee
+![WhatsApp Image 2023-11-21 at 01 16 52_97fd89db](https://github.com/Terriyakiii/BryanPortfolio/assets/148203865/7fcb325e-568c-49b9-8b84-a975dbde3178)# Portfolio of Bryan Lee
 
 ## Here is My Linkedin Profile
 
@@ -25,7 +25,9 @@ I am a highly motivated and Deadline-driven individual with a strong passion for
 
 - I created and managed a MySQL database for the restaurant review website. I also developed a back end that can communicate with the front end to store and retrieve information about restaurants and reviews.
 
-## Networking Group Project
+
+![alt text](https://github.com/Terriyakiii/BryanPortfolio/blob/main/image/Network%20Group%20project%20.jpg?raw=true)
+## Networking Group Project 
 
 - I utilized my leadership and coordination skills to effectively lead a networking group project. I was responsible for assigning tasks, tracking progress, and ensuring that the project was completed on time and within budget.
 
