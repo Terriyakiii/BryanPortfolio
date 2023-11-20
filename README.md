@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-11-21 at 01 16 52_97fd89db](https://github.com/Terriyakiii/BryanPortfolio/assets/148203865/7fcb325e-568c-49b9-8b84-a975dbde3178)# Portfolio of Bryan Lee
+# Portfolio of Bryan Lee
 
 ## Here is My Linkedin Profile
 
