@@ -16,7 +16,7 @@ I am a highly motivated and Deadline-driven individual with a strong passion for
 - Familiarity with Agile methodology and design thinking
 
 # Projects
-![alt text](https://github.com/[Terriyakiii]/[BryanPortfolio]/image/[main]/image.jpg?raw=true)
+![alt text](https://github.com/Terriyakiii/BryanPortfolio/blob/main/image/Fat%20boy%20food%20review%20demo.png?raw=true)
 ## Restaurant Review Website(CDEV)(FAT BOY FOOD REVIEW )  [Website Demo](https://youtu.be/XuUGy-IHJ4g) | [HIFI Demo](https://youtu.be/59xevt0Mcxc)
 
 - I designed and developed a restaurant review website using Adobe XD and Node.js. The website allows users to search for restaurants, read reviews, and leave their own reviews.
