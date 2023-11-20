@@ -2,7 +2,7 @@
 
 ## Here is My Linkedin Profile
 
-[![My linkedin profile](https://github.com/Terriyakiii/BryanPortfolio/blob/main/image/icon.png)
+[![My linkedin profile]()(https://www.linkedin.com/in/bryan-lee-204b611b3/)]
 
 # Summary
 
