@@ -33,7 +33,7 @@ I am a highly motivated and Deadline-driven individual with a strong passion for
 
 ![alt text](https://github.com/Terriyakiii/BryanPortfolio/blob/main/image/Network%20Group%20project%20.jpg?raw=true)
 
-- I utilized my leadership and coordination skills to effectively lead a networking group project. I was responsible for assigning tasks, tracking progress, and ensuring that the project was completed on time.
+- Utilized my leadership and coordination skills to effectively lead a networking group project. I was responsible for assigning tasks, tracking progress, and ensuring that the project was completed on time.
 
 # Work Experience
 
