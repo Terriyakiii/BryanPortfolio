@@ -52,10 +52,6 @@ Information Technology Student Interest Group in Temasek Polytechnic (ITSIG)
 
 - Volunteered as a student helper at UI/UX Design Workshop to assist Year 1 students with their projects.
 
-Football
-
-- Played in Meridian's feeder team against other participating schools in Saints-Meridian-Ville Cup in 2019.
-
 Infocom Club
 
 - Developed basic Microsoft Word, Excel, and PowerPoint skills.
