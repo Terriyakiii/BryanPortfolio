@@ -43,7 +43,7 @@ Internal Client Services, Information Technology Intern
 
 - Assisted users in installing and configuring plugins on their devices.
 - Provided remote and on-site technical support to users.
-- Resolved challenging user IT issues by applying problem-solving skills and providing tailored solutions.
+- Resolved challenging user IT issues by applying problem-solving and good comunication skills and providing tailored solutions.
 
 # Awards and Achievements
 
