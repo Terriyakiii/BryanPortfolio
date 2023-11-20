@@ -16,8 +16,10 @@ I am a highly motivated and Deadline-driven individual with a strong passion for
 - Familiarity with Agile methodology and design thinking
 
 # Projects
-![alt text](https://github.com/Terriyakiii/BryanPortfolio/blob/main/image/Fat%20boy%20food%20review%20demo.png?raw=true)
+
 ## Restaurant Review Website(CDEV)(FAT BOY FOOD REVIEW )  [Website Demo](https://youtu.be/XuUGy-IHJ4g) | [HIFI Demo](https://youtu.be/59xevt0Mcxc)
+
+![alt text](https://github.com/Terriyakiii/BryanPortfolio/blob/main/image/Fat%20boy%20food%20review%20demo.png?raw=true)
 
 - I designed and developed a restaurant review website using Adobe XD and Node.js. The website allows users to search for restaurants, read reviews, and leave their own reviews.
 
@@ -26,8 +28,10 @@ I am a highly motivated and Deadline-driven individual with a strong passion for
 - I created and managed a MySQL database for the restaurant review website. I also developed a back end that can communicate with the front end to store and retrieve information about restaurants and reviews.
 
 
-![alt text](https://github.com/Terriyakiii/BryanPortfolio/blob/main/image/Network%20Group%20project%20.jpg?raw=true)
+
 ## Networking Group Project 
+
+![alt text](https://github.com/Terriyakiii/BryanPortfolio/blob/main/image/Network%20Group%20project%20.jpg?raw=true)
 
 - I utilized my leadership and coordination skills to effectively lead a networking group project. I was responsible for assigning tasks, tracking progress, and ensuring that the project was completed on time.
 
