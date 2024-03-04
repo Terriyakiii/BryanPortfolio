@@ -50,6 +50,8 @@ Internal Client Services, Information Technology Intern
 
 - Edusave Scholarship Award (2019, 2018)
 - Best in Computer Applications (2019)
+- NDG Linux Unhatched (2022)
+- Statistics Foundations: The Basics (2022)
 
 # Co-Curricular Activities
 
