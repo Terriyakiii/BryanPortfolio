@@ -21,11 +21,11 @@ I am a highly motivated and Deadline-driven individual with a strong passion for
 
 ![alt text](https://github.com/Terriyakiii/BryanPortfolio/blob/main/image/Fat%20boy%20food%20review%20demo.png?raw=true)
 
-- I designed and developed a restaurant review website using Adobe XD and Node.js. The website allows users to search for restaurants, read reviews, and leave their own reviews.
+- I've designed and developed a restaurant review website using Adobe XD and Node.js. The website allows users to search for restaurants, read reviews, and leave their own reviews.
 
 ## Database Management for Restaurant Review Website
 
-- I created and managed a MySQL database for the restaurant review website. I also developed a back end that can communicate with the front end to store and retrieve information about restaurants and reviews.
+- I've created and managed a MySQL database for the restaurant review website. I also developed a back end that can communicate with the front end to store and retrieve information about restaurants and reviews.
 
 
 
